@@ -1,0 +1,16 @@
+{
+  "name": "cachesize",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@rainblock/merkle-patricia-tree": "^5.0.0",
+    "bigint-hash": "^0.2.2"
+  },
+  "devDependencies": {},
+  "description": ""
+}
